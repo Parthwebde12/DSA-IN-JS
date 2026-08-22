@@ -1,5 +1,5 @@
 // Length
-let a = "Parth";
+let a = "Parth Wakodikar";
 
 console.log(a.length);
 
@@ -7,7 +7,7 @@ console.log(a.length);
 console.log(a.slice(1, a.length));
 
 // substring(start, end)
-console.log(a.substring(2, 4));
+console.log(a.substring(6, 8));
 
 // toUpperCase
 console.log(a.toUpperCase());
